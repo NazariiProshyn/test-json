@@ -1,0 +1,263 @@
+{
+  "promo":[
+      { 
+        "url": "crazy",
+        "img": "assets/images/promotions/prom1.jpg",
+        "title": "Щасливий вівторок",
+        "date": "10-12-2020",
+        "desc": "Кожен другий замовлений сет або рол коштує на 50% дешевше"
+      },
+      { 
+        "url": "takeaway",
+        "img": "assets/images/promotions/prom2.jpg",
+        "title": "Take Away",
+        "date": "09-12-2020",
+        "desc": "Забирай свій заказ сам і отримуй знижку в 10%"
+      },
+      { 
+        "url": "family",
+        "img": "assets/images/promotions/prom3.jpg",
+        "title": "Family Place",
+        "date": "06-12-2020",
+        "desc": "Знижка в 50% на будь яку другу страву в замовленні"
+      },
+      { "url": "one",
+        "img": "assets/images/promotions/prom4.jpg",
+        "title": "1+1=3",
+        "date": "14-12-2020",
+        "desc": "В черговий раз розпочато акцію: замов дві однакові страви і третя буде в подарунок!"
+      }
+      ],
+ "recommend":[
+      {
+      "url": "fantazy",
+      "title": "Fantazy pizza",
+      "img": "assets/images/pizza/fantazy.jpg",
+      "desc": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula."
+      },
+      {
+      "url": "avokado",
+      "title": "Avokado Niggir",
+      "img": "assets/images/sushi/avokado.jpg",
+      "desc": "avocado, rice, nori, unagi sauce"
+       },
+      {
+      "url": "fanta",
+      "title": "Fanta",
+      "img": "assets/images/drink/fanta.png",
+      "desc": "Orange, lemon"
+       },
+      {
+      "url": "mysl",
+      "title": "Mysl pizza",
+      "img": "assets/images/pizza/mysl.jpg",
+      "desc": "avocado, rice, nori, unagi sauce"
+      }
+  ],
+  
+  "product":[
+     {
+      "name": "Fantazy",
+      "category": "ourpizza",
+      "productId": 1,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "fantazy",
+      "price": 93,
+      "image": "assets/images/pizza/fantazy.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Gavay",
+      "category": "ourpizza",
+      "productId": 2,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "gavay",
+      "price": 93,
+      "image": "assets/images/pizza/gavay.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Karne",
+      "category": "ourpizza",
+      "productId": 3,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "karne",
+      "price": 93,
+      "image": "assets/images/pizza/karne.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Kva pizza",
+      "category": "ourpizza",
+      "productId": 4,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "kva",
+      "price": 93,
+      "image": "assets/images/pizza/kva.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "MySl",
+      "category": "italicpizza",
+      "productId": 5,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "mysl",
+      "price": 93,
+      "image": "assets/images/pizza/mysl.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+        {
+      "name": "Polo pizza",
+      "category": "italicpizza",
+      "productId": 6,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "polo",
+      "price": 93,
+      "image": "assets/images/pizza/polo.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+        {
+      "name": "Proshuto",
+      "category": "italicpizza",
+      "productId": 7,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "proshuto",
+      "price": 93,
+      "image": "assets/images/pizza/proshuto.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+       {
+      "name": "Salyami",
+      "category": "italicpizza",
+      "productId": 8,
+      "description": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula.",
+      "url": "salyami",
+      "price": 93,
+      "image": "assets/images/pizza/salyami.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Ebi Niggir",
+      "category": "sushi",
+      "productId": 9,
+      "description": "tiger prawn, fig",
+      "url": "ebi",
+      "price": 93,
+      "image": "assets/images/sushi/ebi.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Avokado Niggir",
+      "category": "sushi",
+      "productId": 10,
+      "description": "tiger prawn, fig",
+      "url": "avokado",
+      "price": 93,
+      "image": "assets/images/sushi/avokado.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Kunsei",
+      "category": "sushi",
+      "productId": 11,
+      "description": "tiger prawn, fig",
+      "url": "kunsei",
+      "price": 93,
+      "image": "assets/images/sushi/kunsei.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Syake",
+      "category": "sushi",
+      "productId": 12,
+      "description": "tiger prawn, fig",
+      "url": "syake",
+      "price": 93,
+      "image": "assets/images/sushi/syake.jpg",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Coca Cola",
+      "category": "stories",
+      "productId": 13,
+      "description": "tiger prawn, fig",
+      "url": "cola",
+      "price": 93,
+      "image": "assets/images/drink/cola.png",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+        {
+      "name": "Fanta",
+      "category": "stories",
+      "productId": 14,
+      "description": "tiger prawn, fig",
+      "url": "fanta",
+      "price": 93,
+      "image": "assets/images/drink/fanta.png",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+        {
+      "name": "Juce",
+      "category": "stories",
+      "productId": 15,
+      "description": "tiger prawn, fig",
+      "url": "juce",
+      "price": 93,
+      "image": "assets/images/drink/juce.png",
+      "related":[0,4,11,12],
+      "weight": 339
+    },
+    {
+      "name": "Tea",
+      "category": "stories",
+      "productId": 16,
+      "description": "tiger prawn, fig",
+      "url": "tea",
+      "price": 93,
+      "image": "assets/images/drink/tea.png",
+      "related":[0,4,11,12],
+      "weight": 339
+    }
+    ],
+  "footer":{
+      "desc": "You can buy authentic Italian food from us. Skilled chefs know all the intricacies of cooking Mediterranean dishes, so they turn out exactly the same as in the sunny cities of Southern Europe. You can experience gastronomic pleasure both by visiting our establishments, and having ordered the best food delivery in the city. The second solution has several advantages:",
+      "blog":[
+        {
+          "img":"assets/images/sushi/tomago.jpg",
+          "desc":"Sushi  or Pizza,which better for you",
+          "date":"Oct 9, 2019"
+        },
+        {
+          "img":"assets/images/pizza/fantazy.jpg",
+          "desc":"New Pizza - Fantazy,'Hello' from Italy",
+          "date":"Oct 9, 2019"
+        },
+        {
+          "img":"assets/images/sushi/syake.jpg",
+          "desc":"Like a Samurai-syake from ancient Japan",
+          "date":"Oct 9, 2019"
+        }
+        ],
+      "Instagram":[
+        "assets/images/sushi/ebi.jpg","assets/images/sushi/syake.jpg","assets/images/sushi/avokado.jpg","assets/images/sushi/syake.jpg","assets/images/sushi/unagi.jpg","assets/images/sushi/tomago.jpg","assets/images/pizza/karne.jpg","assets/images/pizza/proshuto.jpg","assets/images/pizza/mysl.jpg"
+        ]
+    },
+   "orders":[]
+  
+    
+  
+}
