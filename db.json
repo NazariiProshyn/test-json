@@ -29,30 +29,34 @@
       }
       ],
  "recommend":[
-      {
-      "url": "fantazy",
-      "title": "Fantazy pizza",
-      "img": "assets/images/pizza/fantazy.jpg",
-      "desc": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula."
-      },
-      {
-      "url": "avokado",
-      "title": "Avokado Niggir",
-      "img": "assets/images/sushi/avokado.jpg",
-      "desc": "avocado, rice, nori, unagi sauce"
-       },
-      {
-      "url": "fanta",
-      "title": "Fanta",
-      "img": "assets/images/drink/fanta.png",
-      "desc": "Orange, lemon"
-       },
-      {
-      "url": "mysl",
-      "title": "Mysl pizza",
-      "img": "assets/images/pizza/mysl.jpg",
-      "desc": "avocado, rice, nori, unagi sauce"
-      }
+  {
+    "url": "fantazy",
+    "title": "Fantazy pizza",
+    "price": 93,
+    "img": "assets/images/pizza/fantazy.jpg",
+    "desc": "cream, mozzarella cheese, shrimp, parmesan cheese, cherries, arugula."
+  },
+  {
+    "url": "avokado",
+    "title": "Avokado Niggir",
+    "price": 93,
+    "img": "assets/images/sushi/avokado.jpg",
+    "desc": "avocado, rice, nori, unagi sauce"
+  },
+  {
+    "url": "fanta",
+    "title": "Fanta",
+    "price": 93,
+    "img": "assets/images/drink/fanta.png",
+    "desc": "Orange, lemon"
+  },
+  {
+    "url": "mysl",
+    "title": "Mysl pizza",
+    "price": 93,
+    "img": "assets/images/pizza/mysl.jpg",
+    "desc": "avocado, rice, nori, unagi sauce"
+  }
   ],
   
   "product":[
